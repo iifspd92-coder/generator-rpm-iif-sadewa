@@ -1,0 +1,5 @@
+{
+  "name": "Generator RPM IIF SADEWA GOA",
+  "description": "Aplikasi untuk membuat Rencana Pembelajaran Mendalam (RPM) untuk semua jenjang dan mata pelajaran, didukung oleh Gemini API.",
+  "requestFramePermissions": []
+}
